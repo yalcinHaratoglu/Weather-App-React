@@ -11,7 +11,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone git@github.com:yalcinHaratoglu/Weather-App-React.git 
 
 2. Install dependencies:
 
